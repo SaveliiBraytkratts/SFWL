@@ -1,0 +1,15 @@
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.csproj.AssemblyReference.cache
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.AssemblyInfoInputs.cache
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.AssemblyInfo.cs
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.csproj.CoreCompileInputs.cache
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\bin\Debug\net6.0\задача 4.exe
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\bin\Debug\net6.0\задача 4.deps.json
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\bin\Debug\net6.0\задача 4.runtimeconfig.json
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\bin\Debug\net6.0\задача 4.dll
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\bin\Debug\net6.0\задача 4.pdb
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.dll
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\refint\задача 4.dll
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.pdb
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\задача 4.genruntimeconfig.cache
+C:\Users\Савелий\Desktop\семенар знокомства  с языками\задача 4\obj\Debug\net6.0\ref\задача 4.dll
